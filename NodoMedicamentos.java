@@ -14,4 +14,10 @@ public class NodoMedicamentos {
         this.siguiente = null;
         this.anterior = null;
     }
+    public void eliminarMedicamentos (){
+
+    }
+    public void actualizarMedicamentos(){
+        
+    }
 }
